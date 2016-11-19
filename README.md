@@ -33,4 +33,4 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 534521 | SANZ VIDAL, AITOR 
 618051 | TOLON MARTÍN, CARLOS JAVIER 
 643821 | VELA GARCÍA, JUAN 
-679609 | VIÑUALES SÁNCHEZ, PABLO 
+679609 | VIÑUALES SÁNCHEZ, PABLO | [test repo](https://github.com/strummerTFIU/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/strummerTFIU/lab4-websockets.svg?branch=test)](https://github.com/strummerTFIU/lab4-websockets)
